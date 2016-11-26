@@ -1,0 +1,4 @@
+first:
+export STANFORDTOOLSDIR=.
+export CLASSPATH=$STANFORDTOOLSDIR/stanford-ner-2015-12-09/stanford-ner.jar
+export STANFORD_MODELS=$STANFORDTOOLSDIR/stanford-ner-2015-12-09/classifiers
